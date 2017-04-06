@@ -1,0 +1,8 @@
+require 'pry'
+require 'ferret'
+require './app/classes/document_parsers/parser'
+require './app/classes/document_parsers/pdf'
+require './app/classes/document_parsers/txt'
+require './app/classes/document_parsers/xml'
+require './app/classes/romanian_analyzer'
+require './app/classes/finder'
